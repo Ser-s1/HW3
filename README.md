@@ -1,8 +1,7 @@
 <<<<<<< HEAD
-# flutter_application_1
+# HW3
+<p>Day 3 assignment: Working on a live filter project. I combined what I learned in the previous two assignments with this one and added 3 parameters to the AppBar function.</p>
+<img width="627" height="727" alt="image" src="https://github.com/user-attachments/assets/ce6b8c9b-afe4-4bd2-aad6-4fb3ae0323ec" />
+<p>I created this page to be like a library administrator's page, for example.</p>
 
-A new Flutter project.
-=======
-# HW3
->>>>>>> 878eb59c549c895fa9cf0906878314c9d2a7d732
-# HW3
+
